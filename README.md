@@ -1,21 +1,16 @@
-<H1> Visit to My Portfolio</h1>
+<h1> Visit to My Portfolio</h1>
+
 <hr>
 <p>
 Welcome to my Portfolio Webpage.
-
 <hr>
-<h4>
-Technology used
+
+<h4>Technology used</h4>
 
 <ul>
-<li>
-HTML
+<li>HTML</li>
+<li>CSS</li>
 
 <br>
-<li>
-CSS
-
-<br>
-<h4>
 https://adnanprojects.github.io/portfolio/
 
